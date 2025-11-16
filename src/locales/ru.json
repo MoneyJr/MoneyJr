@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Smart Integration Hub",
+    "language": "Язык",
+    "status": "Статус",
+    "city": "Город",
+    "save": "Сохранить",
+    "filters": "Фильтры",
+    "seeDetails": "Подробнее",
+    "all": "Все"
+  },
+  "home": {
+    "title": "Добро пожаловать во Фрайбург",
+    "greeting": "Привет, {{name}}!",
+    "checklistProgress": "Прогресс чеклиста",
+    "quickActions": "Быстрые действия",
+    "openChecklist": "Чеклист",
+    "openMap": "Карта",
+    "openProfile": "Профиль"
+  },
+  "checklist": {
+    "title": "Чеклист интеграции",
+    "completed": "Выполнено {{done}} из {{total}} задач",
+    "sections": {
+      "registration": {
+        "title": "Регистрация",
+        "description": "Все шаги для официального оформления во Фрайбурге.",
+        "tasks": {
+          "registerCity": "Зарегистрируйте адрес в Bürgeramt",
+          "healthInsurance": "Выберите медицинскую страховку",
+          "bankAccount": "Откройте банковский счет"
+        }
+      },
+      "education": {
+        "title": "Образование",
+        "description": "Курсы языка и интеграции для уверенного старта.",
+        "tasks": {
+          "languageCourse": "Запишитесь на курс немецкого",
+          "integrationCourse": "Зарегистрируйтесь на интеграционный курс",
+          "schoolEnrollment": "Запишите детей в школу"
+        }
+      },
+      "dailyLife": {
+        "title": "Повседневная жизнь",
+        "description": "Транспорт, спорт и места встреч для новых жителей.",
+        "tasks": {
+          "publicTransport": "Получите проездной RegioKarte",
+          "sports": "Вступите в спортивный клуб",
+          "communityCenters": "Посетите общественный центр"
+        }
+      }
+    }
+  },
+  "map": {
+    "title": "Карта города",
+    "filter": {
+      "all": "Все",
+      "integration": "Интеграция",
+      "education": "Образование",
+      "health": "Здоровье",
+      "community": "Сообщество"
+    },
+    "details": "Подробнее"
+  },
+  "profile": {
+    "title": "Профиль",
+    "name": "Имя",
+    "email": "Email",
+    "status": "Статус",
+    "city": "Город",
+    "language": "Язык",
+    "statusOptions": {
+      "newcomer": "Новичок",
+      "student": "Студент",
+      "resident": "Житель"
+    }
+  },
+  "places": {
+    "detailsTitle": "Информация о месте",
+    "address": "Адрес"
+  }
+}

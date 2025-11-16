@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Smart Integration Hub",
+    "language": "Sprache",
+    "status": "Status",
+    "city": "Stadt",
+    "save": "Speichern",
+    "filters": "Filter",
+    "seeDetails": "Details ansehen",
+    "all": "Alle"
+  },
+  "home": {
+    "title": "Willkommen in Freiburg",
+    "greeting": "Hallo, {{name}}!",
+    "checklistProgress": "Checklistenfortschritt",
+    "quickActions": "Schnellzugriff",
+    "openChecklist": "Checkliste",
+    "openMap": "Stadtkarte",
+    "openProfile": "Profil"
+  },
+  "checklist": {
+    "title": "Integrations-Checkliste",
+    "completed": "{{done}} von {{total}} Aufgaben erledigt",
+    "sections": {
+      "registration": {
+        "title": "Anmeldung",
+        "description": "Alles für die offizielle Anmeldung in Freiburg.",
+        "tasks": {
+          "registerCity": "Adresse im Bürgeramt anmelden",
+          "healthInsurance": "Krankenkasse wählen",
+          "bankAccount": "Bankkonto eröffnen"
+        }
+      },
+      "education": {
+        "title": "Bildung",
+        "description": "Sprach- und Integrationskurse für deinen Alltag.",
+        "tasks": {
+          "languageCourse": "Deutschsprachkurs buchen",
+          "integrationCourse": "Zum Integrationskurs anmelden",
+          "schoolEnrollment": "Kinder an der Schule anmelden"
+        }
+      },
+      "dailyLife": {
+        "title": "Alltag",
+        "description": "Mobilität, Kultur und Treffpunkte für Neuankömmlinge.",
+        "tasks": {
+          "publicTransport": "RegioKarte besorgen",
+          "sports": "Sportverein beitreten",
+          "communityCenters": "Nachbarschaftszentrum besuchen"
+        }
+      }
+    }
+  },
+  "map": {
+    "title": "Stadtkarte",
+    "filter": {
+      "all": "Alle",
+      "integration": "Integration",
+      "education": "Bildung",
+      "health": "Gesundheit",
+      "community": "Gemeinschaft"
+    },
+    "details": "Mehr Infos"
+  },
+  "profile": {
+    "title": "Profil",
+    "name": "Name",
+    "email": "E-Mail",
+    "status": "Status",
+    "city": "Stadt",
+    "language": "Sprache",
+    "statusOptions": {
+      "newcomer": "Neuankömmling",
+      "student": "Student",
+      "resident": "Bewohner"
+    }
+  },
+  "places": {
+    "detailsTitle": "Ort",
+    "address": "Adresse"
+  }
+}
