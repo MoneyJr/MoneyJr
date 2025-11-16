@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+.expo-shared/
+android/
+!android/.gitkeep
+ios/
+!ios/.gitkeep
+assets/
+!assets/.gitkeep
+dist/
+build/
+*.log
+.DS_Store

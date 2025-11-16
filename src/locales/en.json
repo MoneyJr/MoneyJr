@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Smart Integration Hub",
+    "language": "Language",
+    "status": "Status",
+    "city": "City",
+    "save": "Save",
+    "filters": "Filters",
+    "seeDetails": "See details",
+    "all": "All"
+  },
+  "home": {
+    "title": "Welcome to Freiburg",
+    "greeting": "Hi, {{name}}!",
+    "checklistProgress": "Checklist progress",
+    "quickActions": "Quick actions",
+    "openChecklist": "Checklist",
+    "openMap": "City map",
+    "openProfile": "Profile"
+  },
+  "checklist": {
+    "title": "Integration checklist",
+    "completed": "Completed {{done}} of {{total}} tasks",
+    "sections": {
+      "registration": {
+        "title": "Registration",
+        "description": "Everything you need to settle officially in Freiburg.",
+        "tasks": {
+          "registerCity": "Register your address at Bürgeramt",
+          "healthInsurance": "Choose health insurance",
+          "bankAccount": "Open a bank account"
+        }
+      },
+      "education": {
+        "title": "Education",
+        "description": "Language and integration courses to boost your German.",
+        "tasks": {
+          "languageCourse": "Book a German course",
+          "integrationCourse": "Register for the integration course",
+          "schoolEnrollment": "Enroll kids into school"
+        }
+      },
+      "dailyLife": {
+        "title": "Daily life",
+        "description": "Transport, culture and meeting points for newcomers.",
+        "tasks": {
+          "publicTransport": "Get a RegioKarte ticket",
+          "sports": "Join a sports club",
+          "communityCenters": "Visit a community center"
+        }
+      }
+    }
+  },
+  "map": {
+    "title": "City map",
+    "filter": {
+      "all": "All",
+      "integration": "Integration",
+      "education": "Education",
+      "health": "Health",
+      "community": "Community"
+    },
+    "details": "More info"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "status": "Status",
+    "city": "City",
+    "language": "Language",
+    "statusOptions": {
+      "newcomer": "Newcomer",
+      "student": "Student",
+      "resident": "Resident"
+    }
+  },
+  "places": {
+    "detailsTitle": "Place details",
+    "address": "Address"
+  }
+}

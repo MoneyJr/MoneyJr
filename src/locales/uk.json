@@ -1,0 +1,82 @@
+{
+  "common": {
+    "appName": "Smart Integration Hub",
+    "language": "Мова",
+    "status": "Статус",
+    "city": "Місто",
+    "save": "Зберегти",
+    "filters": "Фільтри",
+    "seeDetails": "Детальніше",
+    "all": "Всі"
+  },
+  "home": {
+    "title": "Ласкаво просимо до Фрайбурга",
+    "greeting": "Привіт, {{name}}!",
+    "checklistProgress": "Прогрес чекліста",
+    "quickActions": "Швидкі дії",
+    "openChecklist": "Чекліст",
+    "openMap": "Мапа",
+    "openProfile": "Профіль"
+  },
+  "checklist": {
+    "title": "Інтеграційний чекліст",
+    "completed": "Виконано {{done}} з {{total}} завдань",
+    "sections": {
+      "registration": {
+        "title": "Реєстрація",
+        "description": "Усе необхідне для офіційного оформлення у Фрайбурзі.",
+        "tasks": {
+          "registerCity": "Зареєструйте адресу в Bürgeramt",
+          "healthInsurance": "Обирайте медичну страховку",
+          "bankAccount": "Відкрийте банківський рахунок"
+        }
+      },
+      "education": {
+        "title": "Освіта",
+        "description": "Мовні та інтеграційні курси для впевненого старту.",
+        "tasks": {
+          "languageCourse": "Запишіться на курс німецької",
+          "integrationCourse": "Зареєструйтеся на інтеграційний курс",
+          "schoolEnrollment": "Запишіть дітей до школи"
+        }
+      },
+      "dailyLife": {
+        "title": "Повсякденне життя",
+        "description": "Транспорт, спорт та простори для зустрічей.",
+        "tasks": {
+          "publicTransport": "Придбайте проїзний RegioKarte",
+          "sports": "Вступіть до спортивного клубу",
+          "communityCenters": "Завітайте до громадського центру"
+        }
+      }
+    }
+  },
+  "map": {
+    "title": "Мапа міста",
+    "filter": {
+      "all": "Всі",
+      "integration": "Інтеграція",
+      "education": "Освіта",
+      "health": "Здоров'я",
+      "community": "Спільнота"
+    },
+    "details": "Детальніше"
+  },
+  "profile": {
+    "title": "Профіль",
+    "name": "Ім'я",
+    "email": "Email",
+    "status": "Статус",
+    "city": "Місто",
+    "language": "Мова",
+    "statusOptions": {
+      "newcomer": "Новачок",
+      "student": "Студент",
+      "resident": "Мешканець"
+    }
+  },
+  "places": {
+    "detailsTitle": "Інформація про місце",
+    "address": "Адреса"
+  }
+}
